@@ -3,18 +3,24 @@
           "id": 1,
           "name": "danie",
           "photo": "urlhere",
-          "phone_number": 3163548381
+          "phone_number": 3163548381,
+          "password":"hash",
+          "email":"paco@gamil.com"
       }, {
           "id": 2,
           "name": "danie2",
           "photo": "urlhere",
-          "phone_number": 3163548381
+          "phone_number": 3163548381,
+         "password":"hash",
+          "email":"paco@gamil.com"
       },
       {
           "id": 3,
           "name": "danie3",
           "photo": "urlhere",
           "phone_number": 3163548381
+         "password":"hash",
+         "email":"paco@gamil.com"
       }
 
   ]
