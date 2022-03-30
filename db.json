@@ -5,14 +5,14 @@
           "photo": "urlhere",
           "phone_number": 3163548381,
           "password":"hash",
-          "email":"paco@gamil.com"
+          "email":"paco1@gmail.com"
       }, {
           "id": 2,
           "name": "danie2",
           "photo": "urlhere",
           "phone_number": 3163548381,
          "password":"hash",
-          "email":"paco@gamil.com"
+          "email":"paco2@gmail.com"
       },
       {
           "id": 3,
@@ -20,7 +20,7 @@
           "photo": "urlhere",
           "phone_number": 3163548381,
          "password":"hash",
-         "email":"paco@gamil.com"
+         "email":"paco3@gmail.com"
       }
 
   ]
